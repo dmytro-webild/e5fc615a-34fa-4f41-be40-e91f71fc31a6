@@ -65,7 +65,7 @@ export default function LandingPage() {
           href: "#products",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/still-life-domestic-animal-food-composition_23-2148982408.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/still-life-domestic-animal-food-composition_23-2148982408.jpg?_wi=1"
       imageAlt="Elite Fur luxury sustainable pet products"
     />
   </div>
@@ -80,28 +80,28 @@ export default function LandingPage() {
           title: "Elite Pet Gear",
           description: "Handcrafted, high-durability essentials designed for your companion's comfort and your style.",
           phoneOne: {
-            imageSrc: "http://img.b2bpic.net/free-photo/top-view-pet-accessories_23-2150930411.jpg",
+            imageSrc: "http://img.b2bpic.net/free-photo/top-view-pet-accessories_23-2150930411.jpg?_wi=1",
             imageAlt: "Elite Gear",
           },
           phoneTwo: {
             imageSrc: "http://img.b2bpic.net/free-photo/beautiful-girl-red-sweater-lovely-hold-her-adorable-labrador-park-pretty-blonde-woman-having-good-time-outdoor-autumn-with-dog_197531-11931.jpg",
             imageAlt: "Pet Gear",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/still-life-domestic-animal-food-composition_23-2148982408.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/still-life-domestic-animal-food-composition_23-2148982408.jpg?_wi=2",
           imageAlt: "eco friendly dog leash recycled material",
         },
         {
           title: "Organic Nutrition",
           description: "Pure, ethically sourced nourishment curated for peak health and vitality.",
           phoneOne: {
-            imageSrc: "http://img.b2bpic.net/free-photo/beautiful-dog-with-nutritious-food_23-2150742754.jpg",
+            imageSrc: "http://img.b2bpic.net/free-photo/beautiful-dog-with-nutritious-food_23-2150742754.jpg?_wi=1",
             imageAlt: "Nutrition",
           },
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/beautiful-dog-with-nutritious-food_23-2150742780.jpg",
+            imageSrc: "http://img.b2bpic.net/free-photo/beautiful-dog-with-nutritious-food_23-2150742780.jpg?_wi=1",
             imageAlt: "Supplements",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/fluffy-toy-texture-close-up_23-2149686862.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fluffy-toy-texture-close-up_23-2149686862.jpg?_wi=1",
           imageAlt: "eco friendly dog leash recycled material",
         },
         {
@@ -225,7 +225,7 @@ export default function LandingPage() {
           quote: "Finally, a brand that marries luxury with actual sustainability. My dog loves the products!",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/handsome-young-man-teaching-dog-commands-talking-cute-black-pug-standing-white-background_1258-155290.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/still-life-domestic-animal-food-composition_23-2148982408.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/still-life-domestic-animal-food-composition_23-2148982408.jpg?_wi=3",
           imageAlt: "happy pet owner lifestyle portrait",
         },
         {
@@ -236,7 +236,7 @@ export default function LandingPage() {
           quote: "The quality of the hemp leash is unmatched. Elite Fur changed my perspective on pet goods.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/young-woman-sitting-cafe-outdoors-holding-black-french-bulldog-her-lap-girl-wearing-black-sunglasses-shorts-grey-jacket_1157-50450.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-dog-with-nutritious-food_23-2150742754.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-dog-with-nutritious-food_23-2150742754.jpg?_wi=2",
           imageAlt: "happy pet owner lifestyle portrait",
         },
         {
@@ -247,7 +247,7 @@ export default function LandingPage() {
           quote: "My cat's coat looks better than ever since switching to their nutrition line.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/woman-showcasing-their-home_23-2151624943.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-pet-accessories_23-2150930411.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-pet-accessories_23-2150930411.jpg?_wi=2",
           imageAlt: "happy pet owner lifestyle portrait",
         },
         {
@@ -258,7 +258,7 @@ export default function LandingPage() {
           quote: "Zero-harm products delivered carbon-neutral. It's the standard I wanted for my home.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/medium-shot-old-couple-with-cute-dog_23-2149614017.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-dog-with-nutritious-food_23-2150742780.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-dog-with-nutritious-food_23-2150742780.jpg?_wi=2",
           imageAlt: "happy pet owner lifestyle portrait",
         },
         {
@@ -269,7 +269,7 @@ export default function LandingPage() {
           quote: "Beautifully crafted and genuinely helpful. Couldn't recommend them more.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-with-cute-greyhound-dog_23-2150231835.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/fluffy-toy-texture-close-up_23-2149686862.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fluffy-toy-texture-close-up_23-2149686862.jpg?_wi=2",
           imageAlt: "happy pet owner lifestyle portrait",
         },
       ]}
